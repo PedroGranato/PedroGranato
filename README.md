@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="135" src="pato-caminando.gif"  />
+<img align="right" height="135" src="https://media.giphy.com/media/e8n2clEN45Yre/source.gif"  />
 
 ###
 
