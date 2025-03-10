@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="padding: 70px 0; border: 3px solid green;">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PedroGranato&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
