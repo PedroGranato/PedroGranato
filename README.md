@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Pedro Granato and I'm a Cloud and backend developer from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Pedro Granato and I'm a Cloud and BackEnd developer, from Brazil </h2>
 
 ###
 
-<div align="center">
+<br clear="both">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PedroGranato&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=PedroGranato&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroGranato&theme=one-dark&hide_border=true&hide_title=false&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroGranato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -69,8 +69,3 @@
 <img src="https://raw.githubusercontent.com/PedroGranato/PedroGranato/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
