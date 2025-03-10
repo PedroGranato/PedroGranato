@@ -2,14 +2,12 @@
 
 ###
 
-<div align="padding: 70px 0; border: 3px solid green;">
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PedroGranato&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=PedroGranato&theme=dark&hide_border=true)
-  <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGranato&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-  </div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGranato&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 ###
