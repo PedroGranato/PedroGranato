@@ -5,8 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroGranato&theme=one-dark&hide_border=true&hide_title=false&area=true" height="150" width="500" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroGranato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=true" height="150" width="500" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroGranato&theme=one-dark&hide_border=true&hide_title=false&area=true" height="160" width="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroGranato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=true" height="160" width="400" alt="languages graph"  />
 </div>
 
 ###
