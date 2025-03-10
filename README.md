@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Granato and I'm a Cloud and BackEnd developer, from Brazil </h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroGranato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=PedroGranato&locale=en&mode=weekly&theme=onedark&hide_border=true&border_radius=4" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PedroGranato&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=4" height="150" alt="streak graph"  />
 </div>
 
 ###
