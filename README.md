@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="135" src="https://th.bing.com/th/id/R.4de0fb0e39bd692ff7760737641d2113?rik=uZ%2bzVY2AMVP9jg&riu=http%3a%2f%2f68.media.tumblr.com%2fca388b6b4d8b55c0772c27df81c60ed2%2ftumblr_orz4rdAcqc1v1frjoo1_1280.gif&ehk=6dhJp80S0uHgidnbA3H%2fLGHEWOA6tBJGEq7%2bzgv4hAg%3d&risl=&pid=ImgRaw&r=0"  />
+<img align="right" height="135" src="https://media.tenor.com/XG8WXd4R7RYAAAAj/pato-caminando.gif"  />
 
 ###
 
@@ -67,5 +67,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PedroGranato/PedroGranato/output/snake.svg" alt="Snake animation" />
-
-###
