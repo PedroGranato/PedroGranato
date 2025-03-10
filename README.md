@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="135" src="https://media.tenor.com/XG8WXd4R7RYAAAAj/pato-caminando.gif"  />
+<img align="right" height="135" src="https://media.tenor.com/KsA0HArwJPQAAAAi/waddle-waddle-duck.gif"  />
 
 ###
 
