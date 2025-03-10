@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Pedro Granato and I'm a Cloud and BackEnd developer, from Brazil </h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroGranato&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=4" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroGranato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=true" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroGranato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroGranato&theme=one-dark&hide_border=true&hide_title=false&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
