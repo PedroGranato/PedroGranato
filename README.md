@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Granato and I'm a Cloud and BackEnd developer, from Brazil </h2>
+<h2 align="left">Hi 👋! My name is Pedro Granato and I'm a Cloud and BackEnd developer </h2>
 
 ###
 
